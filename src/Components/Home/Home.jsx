@@ -1,5 +1,4 @@
 import './Home.css'
-// import backgroundImage from './assets/images(12).jpg';
 
 
 const Home=()=>{

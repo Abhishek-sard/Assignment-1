@@ -1,4 +1,4 @@
-
+import './App.css'
 import { useEffect, useState } from "react";
 import UserData from './components/UserData' 
 const API = "https://fakestoreapi.com/products/category/jewelery";
